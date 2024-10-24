@@ -4,7 +4,6 @@
 <div class="page-content">
 
     @livewire('general.department')
-    @livewire('general.department')
 
 </div>
 
